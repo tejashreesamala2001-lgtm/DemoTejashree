@@ -1,5 +1,4 @@
 name: Tejashree GitHub Action
-
 on:
   push:
     branches: [ "main" ]
